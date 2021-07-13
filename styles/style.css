@@ -192,7 +192,7 @@ p {
 ----------------- */
 
 /* Mobile Devices */
-@media only screen and (max-width: 668px) {
+@media only screen and (max-width: 687px) {
   .nav-container {
     display: flex;
     flex-direction: column;
@@ -280,4 +280,5 @@ p {
   .courses {
     display: grid;
     grid-template-columns: 1fr;
+  }
 }
