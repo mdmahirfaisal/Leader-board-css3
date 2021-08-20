@@ -190,7 +190,7 @@ p {
 /* ----------------- 
     Media quaries
 ----------------- */
-
+ 
 /* Mobile Devices */
 @media only screen and (max-width: 687px) {
   .nav-container {
@@ -211,8 +211,7 @@ p {
     margin-top: 20px;
     margin-left: 5px;
   }
-  .list-img {
-  }
+  
   .container {
     width: 100%;
   }
@@ -234,9 +233,9 @@ p {
   .player {
     flex-direction: column;
   }
-}
+} 
 /* tablet devices */
-@media only screen and (min-width: 688px) and (max-width: 992px) {
+/* @media only screen and (min-width: 688px) and (max-width: 992px) {
   .nav-container {
     height: 100%;
     flex: center;
@@ -281,4 +280,5 @@ p {
     display: grid;
     grid-template-columns: 1fr;
   }
-}
+} */
+ 
